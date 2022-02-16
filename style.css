@@ -18,6 +18,14 @@ h1 {
     letter-spacing: 5px;
 }
 
+h2 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
 /* Loader */
 .loader {
     position: fixed;
@@ -53,5 +61,8 @@ h1 {
    }
    h1 {
        font-size: 20px;
+   }
+   h2 {
+       font-size: 15px;
    }
 }
