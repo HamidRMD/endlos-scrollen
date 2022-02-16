@@ -10,7 +10,7 @@ body {
     background: rgb(243, 235, 237);
 }
 
-h1 {
+.TitleStyle {
     text-align: center;
     margin-top: 25px;
     margin-bottom: 15px;
@@ -18,10 +18,8 @@ h1 {
     letter-spacing: 5px;
 }
 
-h2 {
-    text-align: center;
-    margin-top: 25px;
-    margin-bottom: 15px;
+.TitleStyle h2 {
+   
     font-size: 30px;
     letter-spacing: 3px;
 }
