@@ -10,14 +10,13 @@ body {
     background: rgb(243, 235, 237);
 }
 
-.h1 {
+h1 {
     text-align: center;
     margin-top: 25px;
     margin-bottom: 15px;
     font-size: 40px;
     letter-spacing: 5px;
 }
-
 
 
 /* Loader */
