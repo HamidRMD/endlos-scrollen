@@ -10,7 +10,7 @@ body {
     background: rgb(243, 235, 237);
 }
 
-.TitleStyle {
+.h1 {
     text-align: center;
     margin-top: 25px;
     margin-bottom: 15px;
@@ -18,11 +18,7 @@ body {
     letter-spacing: 5px;
 }
 
-.TitleStyle h2 {
-   
-    font-size: 30px;
-    letter-spacing: 3px;
-}
+
 
 /* Loader */
 .loader {
@@ -60,7 +56,5 @@ body {
    h1 {
        font-size: 20px;
    }
-   h2 {
-       font-size: 15px;
-   }
+  
 }
